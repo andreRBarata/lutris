@@ -7,6 +7,7 @@ __all__ = (
     "steam",
     "browser",
     "web",
+	"moonlight",
     # Microsoft based
     "wine",
     "winesteam",

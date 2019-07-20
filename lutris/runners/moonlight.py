@@ -11,7 +11,7 @@ class moonlight(Runner):
     platforms = ["Stream"]
     runner_executable = "/snap/bin/moonlight"
 
-    runner_config = [
+    runner_options = [
         {
             "option": "src_ip",
             "type": "string",
